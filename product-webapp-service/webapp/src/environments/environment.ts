@@ -5,8 +5,8 @@
 export const environment = {
   production: false,
   local: 'local',
-  apiBaseUrl: 'https://gameonarena.stackroute.io/',
-  localUrl: 'https://gameonarena.stackroute.io/'
+  apiBaseUrl: 'https://arena-management-d5b9faf87ce8.herokuapp.com/',
+  localUrl: 'https://arena-management-d5b9faf87ce8.herokuapp.com/'
 };
 
 /*
