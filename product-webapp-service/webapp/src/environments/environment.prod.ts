@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
   local:'production',
-  apiBaseUrl: 'http://13.235.44.194:8091',
+  apiBaseUrl: 'https://arena-management-d5b9faf87ce8.herokuapp.com/',
 };
